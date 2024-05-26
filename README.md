@@ -3,7 +3,7 @@
 A really simple demo for parsing binary math operation from text
 
 Inspired by Jonathan Blow and Casey Muratori talk : "Discussion with Casey Muratori about how easy precedence is..."
-https://www.youtube.com/watch?v=fIPO4G42wYE&t=4683s
+https://www.youtube.com/watch?v=fIPO4G42wYE
 
 ```c#
 1 + 2 * 4 + 12 * 5 ^ 7 ^ 8 + 123 ^ 8 * 9 + 2
